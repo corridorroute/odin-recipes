@@ -1,3 +1,4 @@
 # A Recipe Website
-The aim of this project is to create a HTML only website that shows 
-some receipes
+The aim of this project is to create a website that shows 
+some recipes.
+
